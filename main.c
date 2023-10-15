@@ -77,8 +77,6 @@ printf("%c player wins!", board[0][2]);}
 
 }
 
-}
-
 void main(){
 get_input();
 
